@@ -17,7 +17,7 @@ webのURL:https://tmk1008-2025deno-sh-90.deno.dev/
 　 もし単語の最後に「ん」がついた単語をうった場合送信ボタンと入力する欄が文字を書いたり、ボタンを押せなくなるのでそのときはリセットをおして１から遊んでください。
  
 参考にしたwebサイト:
- 　参考にしたサイトのURL:https://qiita.com/hayaharu3220/items/b7eb57a3689fb8050856と、
+ 　参考にしたサイトのURL:https://qiita.com/hayaharu3220/items/b7eb57a3689fb8050856 と、
                      :https://step-learn.com/article/vscode/008-reload.html
  
 AIを使用した場所と、どのように使用したか:
