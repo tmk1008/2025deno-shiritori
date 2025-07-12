@@ -18,7 +18,7 @@ webのURL:https://tmk1008-2025deno-sh-90.deno.dev/
  
 参考にしたwebサイト:
  　参考にしたサイトのURL:https://qiita.com/hayaharu3220/items/b7eb57a3689fb8050856 と、
-                     :https://step-learn.com/article/vscode/008-reload.html
+                     :https://step-learn.com/article/vscode/008-reload.html です。
  
 AIを使用した場所と、どのように使用したか:
  　AIを一番使用した所は、リセットボタンの処理の部分です。どのように使用したかは、「リセットボタンを押したとき/resetが実行され、ページをリロードしたいのですがどのようなコードを書けばページをリロードすることができるか教えてください」
